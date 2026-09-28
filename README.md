@@ -10,4 +10,4 @@ This project was made in EasyEDA Pro, so the files are not in KiCAD or Altium fo
 <img width="678" height="587" alt="image" src="https://github.com/user-attachments/assets/40f07cde-9cfb-4322-8e1f-2742a7b7dcef" />
 
 ## Bill of Materials
-The BOM can be accessed in the [BOM file](BOM_Git_USB_Hub.xlsx) in this repository. The parts list cost adds up to ~0.80 USD, however PCB manufacturing costs around ~2 USD for a standard 5 board order, excluding assembly (if you don't want to assemble yourself) and shipping (varies - possibly ~30 USD).
+The BOM can be accessed in the [BOM file](BOM_Git_USB_Hub.csv) in this repository. The parts list cost adds up to ~0.80 USD, however PCB manufacturing costs around ~2 USD for a standard 5 board order, excluding assembly (if you don't want to assemble yourself) and shipping (varies - possibly ~30 USD).
